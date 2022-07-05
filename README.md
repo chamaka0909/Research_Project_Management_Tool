@@ -15,6 +15,8 @@ I deployed our website frontend on Netlify and backend on Heroku cloud base plat
 
 I implemented all crud operations and other new features like email service in this system.
 
+Site Link - https://deft-genie-adc47c.netlify.app/
+
 
 ![image](https://user-images.githubusercontent.com/95535148/177263055-64d5658c-61a4-4067-a542-2a43c4503c91.png)
 
