@@ -1,6 +1,6 @@
 # Research_Project_Management_Tool
 
-![image](https://user-images.githubusercontent.com/95535148/177262970-636453e9-0b59-4bf1-8871-22776be8698e.png)
+![image](https://user-images.githubusercontent.com/95535148/177263055-64d5658c-61a4-4067-a542-2a43c4503c91.png)
 
 ![1 1](https://user-images.githubusercontent.com/95535148/177262340-fd88c3a4-f8e4-45e3-aaa0-189bfd01635d.png)
 
