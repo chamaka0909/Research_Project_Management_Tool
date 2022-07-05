@@ -1,5 +1,21 @@
 # Research_Project_Management_Tool
 
+This system has been developed for assignment purposes in our university in the third-year first semester “Application Framework” module. This system is basically developed using React js and Node js technologies. we set up client-side and server-side connectivity using REST APIs. I engaged in the below areas in this project.
+
+
+I developed Student Groups, supervisor details, and student-supervisor request management functions.
+
+I Basically used technologies like react js, node js, express js, and Mongo DB as well as REST APIs.
+
+I used GET, POST, PUT and DELETE Rest APIs to establish connections between client and server.
+
+I used GitHub to integrate my project source code with the team members.
+
+I deployed our website frontend on Netlify and backend on Heroku cloud base platforms. 
+
+I implemented all crud operations and other new features like email service in this system.
+
+
 ![image](https://user-images.githubusercontent.com/95535148/177263055-64d5658c-61a4-4067-a542-2a43c4503c91.png)
 
 ![1 1](https://user-images.githubusercontent.com/95535148/177262340-fd88c3a4-f8e4-45e3-aaa0-189bfd01635d.png)
